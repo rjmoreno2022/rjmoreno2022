@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rafael Jiménez</h1>
 <h3 align="center">A passionate full stack developer from Venezuela</h3>
 
-- 🔭 I’m currently working on **Travelink**
+- 🔭 I’m currently working on **My future website**
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning **Next Js**
 
 - 👯 I’m looking to collaborate on **projects with react**
 
